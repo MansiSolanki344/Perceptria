@@ -1,0 +1,57 @@
+```json
+{
+  "summary": "Hello Geetaben!  Let's go over your test results.  It's great that your blood sugar, liver function, and kidney function are all within healthy ranges. Your cholesterol levels are also excellent!",
+  "good_news": [
+    "Normal blood sugar levels",
+    "Healthy liver function (SGPT)",
+    "Normal kidney function (Creatinine and Blood Urea)",
+    "Excellent cholesterol levels" ,
+    "Normal thyroid function"
+  ],
+  "concerns": {
+    "table": "Hemoglobin|6.5|12-16 g/dL|Low\nTotal RBC Count|3.67|4.2-5.4 mill/cmm|Low\nP.C.V|24.4|37-47%|Low\nM.C.V.|66.5|78-100 femtolitre|Low\nM.C.H.|17.7|27-31 pg|Low\nM.C.H.C.|26.6|32-36 g/dl|Low\nR.D.W.|18.0|11.5-14.0%|High\nSerum B-12 Level|128.3|211-911 pg/ml|Low",
+    "explanations": "Your blood tests show some low values related to your red blood cells (RBCs) and hemoglobin, indicating anemia.  Additionally, your Vitamin B12 is a bit low. Anemia can sometimes cause fatigue and weakness. We need to figure out the cause of your anemia and B12 levels."
+  },
+  "doctor_advice": "I recommend scheduling a follow-up appointment to discuss your anemia and low Vitamin B12 further.  We can explore potential causes and develop a plan to improve these levels.  This may involve dietary changes, supplements, or further testing.",
+  "diet": {
+    "vegetarian": [
+      {"day": 1, "breakfast": "Oatmeal with spinach", "lunch": "Lentil soup with whole-wheat bread", "dinner": "Vegetable curry with brown rice"},
+      {"day": 2, "breakfast": "Tofu scramble with whole-wheat toast", "lunch": "Quinoa salad with chickpeas", "dinner": "Vegetable stir-fry with brown rice"},
+      {"day": 3, "breakfast": "Smoothie with berries and spinach", "lunch": "Lentil and vegetable stew", "dinner": "Black bean burgers on whole-wheat buns"},
+      {"day": 4, "breakfast": "Yogurt with fruit and granola", "lunch": "Vegetarian chili", "dinner": "Pasta with marinara sauce and vegetables"},
+      {"day": 5, "breakfast": "Oatmeal with banana and nuts", "lunch": "Salad with beans and avocado", "dinner": "Vegetarian pizza with whole-wheat crust"},
+      {"day": 6, "breakfast": "Pancakes with fruit and syrup", "lunch": "Soup and sandwich", "dinner": "Vegetable Paella"},
+      {"day": 7, "breakfast": "Breakfast burrito", "lunch": "Salad with grilled halloumi", "dinner": "Indian lentil dish"}
+    ],
+    "nonVegetarian": [
+      {"day": 1, "breakfast": "Scrambled eggs with whole-wheat toast", "lunch": "Chicken salad sandwich", "dinner": "Grilled salmon with roasted vegetables"},
+      {"day": 2, "breakfast": "Greek yogurt with berries", "lunch": "Turkey breast and avocado sandwich", "dinner": "Lean ground beef stir-fry"},
+      {"day": 3, "breakfast": "Omelet with cheese and veggies", "lunch": "Tuna salad sandwich", "dinner": "Baked chicken breast with sweet potato"},
+      {"day": 4, "breakfast": "Bacon and eggs", "lunch": "Leftovers from dinner", "dinner": "Steak and salad"},
+      {"day": 5, "breakfast": "Yogurt parfait", "lunch": "Chicken Caesar salad", "dinner": "Pork loin with asparagus"},
+      {"day": 6, "breakfast": "cereal", "lunch": "Leftovers", "dinner": "Fish and chips"},
+      {"day": 7, "breakfast": "Breakfast sandwich", "lunch": "Soup and sandwich", "dinner": "Roast chicken"}
+    ]
+  },
+  "exercise": [
+    {"day": "Monday", "activity": "Brisk walking (30 mins)"},
+    {"day": "Tuesday", "activity": "Yoga (30 mins)"},
+    {"day": "Wednesday", "activity": "Rest or light stretching"},
+    {"day": "Thursday", "activity": "Swimming (30 mins)"},
+    {"day": "Friday", "activity": "Cycling (30 mins)"},
+    {"day": "Saturday", "activity": "Hiking (45 mins)"},
+    {"day": "Sunday", "activity": "Rest or gentle stroll"}
+  ],
+  "lifestyle_tips": [
+    "Drink plenty of water throughout the day",
+    "Get 7-8 hours of quality sleep each night",
+    "Manage stress through relaxation techniques",
+    "Prioritize regular meals to maintain energy levels"
+  ],
+  "supplements": [
+    "Consider iron-rich foods: spinach, lentils, red meat",
+    "Increase Vitamin B12 intake: eggs, dairy products, fortified cereals.  We can discuss supplementation if needed."
+  ],
+  "motivation": "Geetaben, you're taking proactive steps to improve your health, and that's wonderful!  With a few adjustments, we can address your anemia and get you feeling your best. I'm here to support you every step of the way. Let's work together to achieve your health goals!"
+}
+```

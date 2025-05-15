@@ -1,0 +1,31 @@
+Test performed on : 6 part
+Print Date Time : 13 /
+The test performed on fully automated SIEMENS DIMENSION EXL : 200
+Print Date Time : 13 /
+Test performed on fully automated SIEMENS DIMENSION EXL : 200.
+Print Date Time : 13 /
+age : 3 o
+Test performed on fully automated SIEMENS DIMENSION EXL : 200.
+Print Date Time : 13 /
+Test performed on fully automated SIEMENS DIMENSION EXL : 200
+Print Date Time : 13 /
+age : 5 o
+Borderline level : 200 -
+Upto : 160
+Upto : 130
+Upto : 34
+Low risk : 3.3 -
+Moderate risk : 7.2 -
+Test performed on fully automated Erba EM : 200.
+Print Date Time : 13 /
+age : 6 o
+between : 6 -
+Print Date Time : 13 /
+Test performed on fully automated SIEMENS DIMENSION EXL : 200.
+Print Date Time : 13 /
+age : 8 o
+Serum B : 12 Level
+Print Date Time : 13 /
+age : 9 o
+Test is performed on : 10 parameter
+Print Date Time : 13 /

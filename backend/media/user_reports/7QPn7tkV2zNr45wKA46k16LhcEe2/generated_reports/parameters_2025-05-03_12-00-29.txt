@@ -1,0 +1,23 @@
+Here's a table summarizing the extracted test parameters from the lab report:
+
+| Test Name             | Value    | Unit      |
+|-----------------------|----------|-----------|
+| Hemoglobin            | 6.5      | g/dl      |
+| Total Cholesterol     | 108      | mg/dl     |
+| LDL Cholesterol       | 28.5     | mg/dl     |
+| HDL Cholesterol       | 50.9     | mg/dl     |
+| RBC Count             | 3.67     | mill/cmm  |
+| Platelet Count        | 417000   | /cmm      |
+| Fasting Blood Sugar   | 98.0     | mg/dl     |
+| HbA1c                 |          |           |  *(Not found in report)*
+| Glucose               |          |           |  *(Not found separately, included in FBS)*
+| Serum B12             | 128.3    | pg/ml     |
+| WBC Count             | 7390     | /cmm      |
+| Triglycerides         | 69.8     | mg/dl     |
+| PCV                    | 24.4     | %         |
+| MCV                    | 66.5     | femtolitre|
+| MCH                    | 17.7     | pg        |
+| MCHC                   | 26.6     | g/dl      |
+
+
+**Note:** HbA1c and a separate Glucose test were not explicitly found in the provided lab report.  Fasting Blood Sugar likely encompasses the glucose measurement.

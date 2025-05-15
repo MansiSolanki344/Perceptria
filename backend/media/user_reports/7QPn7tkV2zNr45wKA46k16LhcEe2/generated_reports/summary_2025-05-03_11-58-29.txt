@@ -1,0 +1,55 @@
+```json
+{
+  "summary": "Hello Geetaben! Let's go over your recent test results.  I'm pleased to report some very positive findings, and we'll discuss a few areas that need attention.",
+  "good_news": [
+    "Your blood sugar, liver function (SGPT), and kidney function (creatinine and blood urea) are all within the normal range. This is excellent news!",
+    "Your cholesterol levels are remarkably healthy, significantly below the recommended levels.  This is wonderful for your heart health!"
+  ],
+  "concerns": {
+    "table": "Hemoglobin|6.5|12-16 g/dL|Low|Anemia\nTotal RBC Count|3.67|4.2-5.4 mill/cmm|Low|Anemia\nP.C.V|24.4|37-47%|Low|Anemia\nM.C.V|66.5|78-100 femtolitre|Low|Anemia\nM.C.H|17.7|27-31 pg|Low|Anemia\nM.C.H.C|26.6|32-36 g/dl|Low|Anemia\nR.D.W|18.0|11.5-14.0%|High|Anemia\nSerum B-12 Level|128.3|211-911 pg/ml|Low|Vitamin B12 Deficiency\nCalcium|8.4|8.5-10.1 mg/dl|Slightly Low|Possible Calcium Deficiency",
+    "explanations": "Your blood tests indicate you have anemia, which means you have lower than normal red blood cells and hemoglobin. This can cause fatigue, weakness, and shortness of breath.  Your slightly low Vitamin B12 and Calcium levels may also contribute to this.  Let's work together to address these and improve your energy."
+  },
+  "doctor_advice": "I recommend scheduling a follow-up appointment to discuss your anemia and vitamin B12 and Calcium levels in more detail. We'll determine the best course of action, which may include dietary changes, supplements, or further testing.  Don't worry, we'll get to the bottom of this together!",
+  "diet": {
+    "vegetarian": [
+      {"day": 1, "breakfast": "Oatmeal with berries", "lunch": "Spinach and lentil salad", "dinner": "Tofu stir-fry with brown rice"},
+      {"day": 2, "breakfast": "Yogurt with fruit and nuts", "lunch": "Vegetable curry with whole wheat roti", "dinner": "Black bean burgers on whole wheat buns"},
+      {"day": 3, "breakfast": "Smoothie with spinach, banana, and almond milk", "lunch": "Lentil soup", "dinner": "Vegetable pasta"},
+      {"day": 4, "breakfast": "Whole wheat toast with avocado", "lunch": "Quinoa salad with chickpeas and vegetables", "dinner": "Vegetarian chili"},
+      {"day": 5, "breakfast": "Breakfast burrito with black beans and veggies", "lunch": "Salad with grilled halloumi", "dinner": "Vegetable and lentil stew"},
+      {"day": 6, "breakfast": "Peanut butter on whole-wheat toast", "lunch": "Vegetable and tofu wrap", "dinner": "Indian vegetable curry with brown rice"},
+      {"day": 7, "breakfast": "Pancakes with fruit", "lunch": "Chickpea salad sandwich", "dinner": "Vegetable pizza"}
+    ],
+    "nonVegetarian": [
+      {"day": 1, "breakfast": "Scrambled eggs with spinach", "lunch": "Chicken salad sandwich", "dinner": "Grilled salmon with roasted vegetables"},
+      {"day": 2, "breakfast": "Yogurt with berries and granola", "lunch": "Turkey breast and avocado sandwich", "dinner": "Lean beef stir-fry"},
+      {"day": 3, "breakfast": "Omelet with cheese and vegetables", "lunch": "Chicken soup", "dinner": "Baked chicken breast with sweet potato"},
+      {"day": 4, "breakfast": "Whole wheat toast with eggs", "lunch": "Tuna salad sandwich", "dinner": "Pork tenderloin with green beans"},
+      {"day": 5, "breakfast": "Breakfast sausage with fruit", "lunch": "Leftovers from dinner", "dinner": "Steak with asparagus"},
+      {"day": 6, "breakfast": "Cereal with milk and fruit", "lunch": "Chicken Caesar salad", "dinner": "Shrimp scampi with whole wheat pasta"},
+      {"day": 7, "breakfast": "French toast", "lunch": "Leftover steak and asparagus", "dinner": "Chicken and vegetable skewers"}
+    ]
+  },
+  "exercise": [
+    {"day": "Monday", "activity": "Brisk walking (30 mins)"},
+    {"day": "Tuesday", "activity": "Gentle Yoga (20 mins)"},
+    {"day": "Wednesday", "activity": "Swimming (30 mins)"},
+    {"day": "Thursday", "activity": "Rest or light stretching"},
+    {"day": "Friday", "activity": "Cycling (30 mins)"},
+    {"day": "Saturday", "activity": "Hiking (45 mins)"},
+    {"day": "Sunday", "activity": "Rest or light stretching"}
+  ],
+  "lifestyle_tips": [
+    "Drink plenty of water throughout the day",
+    "Prioritize 7-8 hours of quality sleep each night",
+    "Manage stress levels through relaxation techniques like meditation or deep breathing",
+    "Aim for at least 30 minutes of moderate-intensity exercise most days of the week."
+  ],
+  "supplements": [
+    "Consider iron-rich foods like spinach, lentils, and red meat",
+    "Include Vitamin B12 rich foods such as eggs, dairy, and fortified cereals. We will discuss if a supplement is needed at your next visit.",
+    "Consume Calcium-rich foods like dairy products, leafy greens, and almonds. We will discuss if a supplement is needed at your next visit."
+  ],
+  "motivation": "Geetaben, you're doing great in managing your health! Let's work together to address these minor concerns, and I'm confident you'll feel even better soon. Please don't hesitate to reach out if you have any questions before your follow-up appointment."
+}
+```
